@@ -1,0 +1,9 @@
+# .NET build outputs
+bin/
+obj/
+
+# Distribution archives
+dist/
+
+# macOS metadata
+.DS_Store

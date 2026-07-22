@@ -1,0 +1,15 @@
+{
+  "Name": "Smart Pipes",
+  "Author": "ParfaitRana",
+  "Version": "1.0.0",
+  "Description": "Filtered, directional, and safe item logistics for Stardew Valley.",
+  "UniqueID": "ParfaitRana.SmartPipes",
+  "EntryDll": "SmartPipes.dll",
+  "MinimumApiVersion": "4.2.0",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}

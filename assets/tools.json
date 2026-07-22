@@ -1,0 +1,19 @@
+{
+  "ParfaitRana.SmartPipes_Wrench": {
+    "ClassName": "GenericTool",
+    "Name": "ParfaitRana.SmartPipes_Wrench",
+    "DisplayName": "[LocalizedText Strings\\Tools:SmartPipes_Wrench_Name]",
+    "Description": "[LocalizedText Strings\\Tools:SmartPipes_Wrench_Description]",
+    "Texture": "Mods/ParfaitRana.SmartPipes/Items",
+    "SpriteIndex": 3,
+    "MenuSpriteIndex": 3,
+    "CanBeLostOnDeath": false,
+    "SetProperties": {
+      "InstantUse": true,
+      "IsEfficient": true
+    },
+    "ModData": {
+      "ParfaitRana.SmartPipes/Component": "Wrench"
+    }
+  }
+}

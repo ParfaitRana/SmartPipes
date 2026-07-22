@@ -1,0 +1,62 @@
+{
+  "ParfaitRana.SmartPipes_Pipe": {
+    "Name": "ParfaitRana.SmartPipes_Pipe",
+    "DisplayName": "[LocalizedText Strings\\Objects:Pipe_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Pipe_Description]",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Mods/ParfaitRana.SmartPipes/Items",
+    "SpriteIndex": 0,
+    "CanBeSetDown": true,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true,
+    "ContextTags": [ "smart_pipes_component", "smart_pipes_pipe" ]
+  },
+  "ParfaitRana.SmartPipes_Port": {
+    "Name": "ParfaitRana.SmartPipes_Port",
+    "DisplayName": "[LocalizedText Strings\\Objects:Port_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Port_Description]",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Mods/ParfaitRana.SmartPipes/Items",
+    "SpriteIndex": 1,
+    "CanBeSetDown": false,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true,
+    "ContextTags": [ "smart_pipes_component", "smart_pipes_port" ]
+  },
+  "ParfaitRana.SmartPipes_ShippingValve": {
+    "Name": "ParfaitRana.SmartPipes_ShippingValve",
+    "DisplayName": "[LocalizedText Strings\\Objects:ShippingValve_Name]",
+    "Description": "[LocalizedText Strings\\Objects:ShippingValve_Description]",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Mods/ParfaitRana.SmartPipes/Items",
+    "SpriteIndex": 2,
+    "CanBeSetDown": false,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true,
+    "ContextTags": [ "smart_pipes_component", "smart_pipes_shipping_valve" ]
+  },
+  "ParfaitRana.SmartPipes_Blueprint": {
+    "Name": "ParfaitRana.SmartPipes_Blueprint",
+    "DisplayName": "[LocalizedText Strings\\Objects:Blueprint_Name]",
+    "Description": "[LocalizedText Strings\\Objects:Blueprint_Description]",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Mods/ParfaitRana.SmartPipes/Items",
+    "SpriteIndex": 4,
+    "CanBeSetDown": false,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true,
+    "ContextTags": [ "smart_pipes_blueprint" ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "YanYim.SmartPipes_Pipe": {
+    "Name": "YanYim.SmartPipes_Pipe",
+    "DisplayName": "[LocalizedText Strings\\Objects:Pipe_Name]",
+    "Description": "Legacy Smart Pipes component. It will be migrated when a save loads.",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Maps/springobjects",
+    "SpriteIndex": 334,
+    "CanBeSetDown": true,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true
+  },
+  "YanYim.SmartPipes_Port": {
+    "Name": "YanYim.SmartPipes_Port",
+    "DisplayName": "[LocalizedText Strings\\Objects:Port_Name]",
+    "Description": "Legacy Smart Pipes component. It will be migrated when a save loads.",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Maps/springobjects",
+    "SpriteIndex": 338,
+    "CanBeSetDown": false,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true
+  },
+  "YanYim.SmartPipes_ShippingValve": {
+    "Name": "YanYim.SmartPipes_ShippingValve",
+    "DisplayName": "[LocalizedText Strings\\Objects:ShippingValve_Name]",
+    "Description": "Legacy Smart Pipes component. It will be migrated when a save loads.",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Maps/springobjects",
+    "SpriteIndex": 336,
+    "CanBeSetDown": false,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true
+  },
+  "YanYim.SmartPipes_Wrench": {
+    "Name": "YanYim.SmartPipes_Wrench",
+    "DisplayName": "[LocalizedText Strings\\Objects:Wrench_Name]",
+    "Description": "Legacy Smart Pipes component. It will be migrated when a save loads.",
+    "Type": "Crafting",
+    "Category": 0,
+    "Price": 0,
+    "Edibility": -300,
+    "Texture": "Maps/springobjects",
+    "SpriteIndex": 335,
+    "CanBeSetDown": false,
+    "CanBeGrabbed": true,
+    "ExcludeFromShippingCollection": true
+  }
+}

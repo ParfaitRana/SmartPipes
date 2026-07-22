@@ -1,0 +1,12 @@
+{
+  "Pipe_Name": "Smart Item Pipe",
+  "Pipe_Description": "Carries items between connected Smart Ports.",
+  "Port_Name": "Smart Port",
+  "Port_Description": "Attach it to a chest or machine to control item flow.",
+  "ShippingValve_Name": "Safe Shipping Valve",
+  "ShippingValve_Description": "Install it on a shipping bin to create a guarded pipe-network entrance.",
+  "Blueprint_Name": "Basic Farm Logistics Blueprint",
+  "Blueprint_Description": "Robin's plans for Smart Pipes, ports, and their maintenance wrench.",
+  "Wrench_Name": "Pipe Wrench",
+  "Wrench_Description": "Configures, diagnoses, and safely removes Smart Pipes components."
+}

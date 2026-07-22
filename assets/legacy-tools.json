@@ -1,0 +1,12 @@
+{
+  "YanYim.SmartPipes_Wrench": {
+    "ClassName": "GenericTool",
+    "Name": "YanYim.SmartPipes_Wrench",
+    "DisplayName": "[LocalizedText Strings\\Tools:SmartPipes_Wrench_Name]",
+    "Description": "Legacy Smart Pipes tool. It will be migrated when a save loads.",
+    "Texture": "TileSheets/Tools",
+    "SpriteIndex": 0,
+    "MenuSpriteIndex": 0,
+    "CanBeLostOnDeath": false
+  }
+}
